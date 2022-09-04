@@ -1,0 +1,1 @@
+{"name":"Local: 3908","url":"/root/dev/ps/3908.c","tests":[{"id":1649832589426,"input":"12\n24 3\n24 2\n2 1\n1 1\n4 2\n18 3\n17 1\n17 3\n17 4\n100 5\n1000 10\n1120 14","output":"2\n3\n1\n0\n0\n2\n1\n0\n1\n55\n200102899\n2079324314"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/root/dev/ps/3908.c","group":"local","local":true}
